@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect('localhost','root','','e_laundry');
+$conn = mysqli_connect('localhost','root','','e-laundry');
 
 $username = stripslashes($_POST['username']);
 $query = "SELECT * FROM user where username='$username'";
