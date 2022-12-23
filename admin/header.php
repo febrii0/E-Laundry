@@ -22,7 +22,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span></button>
-				<a class="navbar-brand" href="#"><span>E-Laundry</span> Sistem</a>
+				<a class="navbar-brand" href="#"><span>Enak Laundry</span> Sistem</a>
 			</div>
 		</div><!-- /.container-fluid -->
 	</nav>

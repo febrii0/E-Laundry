@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Login | E-Laundry</title>
+	<title>Login | Enak Laundry</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="assets/login/images/icons/favicon.ico"/>
@@ -21,7 +21,7 @@
 			<div class="wrap-login100 p-t-50 p-r-60 p-b-50 p-l-60">
 				<form class="login100-form validate-form" method="POST" action="login.php">
 					<span class="login100-form-title p-b-40">
-						E-Laundry<br/>
+						Enak Laundry<br/>
 						<p>Solusi Mager Nyuci</p>
 					</span>
 

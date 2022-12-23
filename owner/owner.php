@@ -11,7 +11,7 @@ if($_SESSION){
   header('location:../index.php');
 }
 
-$conn = mysqli_connect('localhost','root','','e_laundry');
+$conn = mysqli_connect('sql110.liveblog365.com','lblog_33250892','u7grgua18','lblog_33250892_e_laundry');
 
 function ambildata($conn,$query){
   $data = mysqli_query($conn,$query);

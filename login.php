@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect('localhost','root','','e-laundry');
+$conn = mysqli_connect('sql110.liveblog365.com','lblog_33250892','u7grgua18','lblog_33250892_e_laundry');
 
 $username = stripslashes($_POST['username']);
 $query = "SELECT * FROM user where username='$username'";

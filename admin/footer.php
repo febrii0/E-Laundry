@@ -1,5 +1,5 @@
 			<div class="col-sm-12">
-				<p class="back-link">2022 &copy; Made with by Febriansyah Agung Tirta</p>
+				<p class="back-link">2022 &copy; Made with by Febri & Alifia</p>
 			</div>
 		</div><!--/.row -->
 	</div><!--/.main-->
