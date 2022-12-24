@@ -5,6 +5,7 @@
 | Nama          | Febriansyah Agung Tirta   |
 |               | Alifia Rahmanita          |
 | NPM           | 21753049                  |
+|               | 21753040                  |
 | Kelas         | Management Informatika 3B |
 | Instansi      | Politeknik Negeri Lampung |
 | Mata Kuliah   | Pemrograman Web 2         |

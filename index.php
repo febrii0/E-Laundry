@@ -63,5 +63,7 @@
 	<script src="assets/login/vendor/bootstrap/js/bootstrap.min.js"></script>
 	<script src="assets/login/vendor/select2/select2.min.js"></script>
 
+	<p>Febri & Alifia</p>
+
 </body>
 </html>
